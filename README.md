@@ -62,8 +62,8 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-![alt text](https://github.com/VoarL/JUMP-AI/blob/main/Images/JumpAI1.jpg?raw=true)
-![alt text](https://github.com/VoarL/JUMP-AI/blob/main/Images/JumpAI2.jpg?raw=true)
-![alt text](https://github.com/VoarL/JUMP-AI/blob/main/Images/JumpAI3.jpg?raw=true)
+![alt text](https://github.com/VoarL/JUMP-AI/blob/main/Images/JumpAI1.png?raw=true)
+![alt text](https://github.com/VoarL/JUMP-AI/blob/main/Images/JumpAI2.png?raw=true)
+![alt text](https://github.com/VoarL/JUMP-AI/blob/main/Images/JumpAI3.png?raw=true)
 
 
